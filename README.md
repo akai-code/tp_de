@@ -13,7 +13,7 @@ Données de trafic et de comportement des utilisateurs à partir de Google Analy
 
 ## 3. Outils Employés :
 
-Python pour l'extraction de données à partir de l'API Shopify et la transformation des données
+Python pour l'extraction de données à partir de l'API Shopify, API Google Analytics et la transformation des données
 MySQL pour la gestion des bases de données
 Tableau pour la visualisation des données
 
@@ -21,6 +21,7 @@ Tableau pour la visualisation des données
 
 - **Angora Kouamé** :
     Extraction de données à partir de l'API Shopify
+    Extraction de données à partir de l'API Google Analytics
     Stockage des données collectées dans la base de données MySQL
     Écriture des scripts pour l'automatisation de la collecte de données
 - **Koné Oumar** :
